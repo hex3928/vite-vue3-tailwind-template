@@ -17,7 +17,7 @@ Tailwind CSS JIT installed along with PostCSS and autoprefixer
   - `npm i`
 2. Vue Router
   - `npm i vue-router@4`
-  - `create a new router (`./src/router.js`)
+  - create a new router (`./src/router.js`)
 
 ```js
 // ./src/router.js
